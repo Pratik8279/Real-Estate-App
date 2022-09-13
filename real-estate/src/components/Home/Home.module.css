@@ -1,0 +1,48 @@
+#parent{
+    display: grid;
+    grid-template-columns: repeat(3,420px);
+    grid-template-rows: repeat(6,370px);
+    justify-content: center;
+    gap: 20px;
+}
+#unit{
+    border:1px solid red;
+    line-height: 10px;
+}
+#unit>img{
+    height: 55%;
+    width: 100%;
+    object-fit: cover;
+}
+#upper{
+    display: flex;
+}
+p{
+    color: gray;
+}
+#price{
+    text-align: left;
+    margin-left: 30px;
+    margin-top: 20px;
+}
+#price>span{
+    color: rgb(137, 80, 137);
+    font-weight: bold;
+    font-size: 25px;
+}
+#middle{
+  margin-top: -10px;
+}
+#middle>h2,p{
+    text-align: left;
+    margin-left: 30px;
+}
+hr{
+    width: 95%;
+}
+#bottom{
+    display: flex;
+    justify-content: space-around;
+    margin-top: -10px;
+}
+

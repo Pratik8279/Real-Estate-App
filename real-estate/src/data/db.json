@@ -1,0 +1,167 @@
+{
+    "property":[
+        {
+          "img":"http://cdn.home-designing.com/wp-content/uploads/2008/10/living_room_part2_by_ozhan.jpg",
+          "location": "Mumbai",
+          "price": 45000,
+          "bed": 2,
+          "bathroom":2,
+          "name": "Dreams complex",
+          "type": "bungalow"
+        },
+        {
+            "img":"https://5.imimg.com/data5/SELLER/Default/2021/7/GQ/YW/IT/13267883/hall-interior-design-500x500.jpg",
+            "location": "Vadala",
+            "price": 35000,
+            "bed": 1,
+            "bathroom":2,
+            "name": "Guru co.op",
+            "type": "Flat"
+          },
+          {
+            "img":"https://www.epsinteriorindustries.com/wp-content/uploads/2021/08/living-room-interior-design.jpg",
+            "location": "Pune",
+            "price": 38000,
+            "bed": 3,
+            "bathroom":4,
+            "name": "Ganesh complex",
+            "type": "Row-house"
+          },
+          {
+            "img":"https://i.pinimg.com/originals/25/4c/80/254c80ef467dd7fff459c58c5e29a6bf.jpg",
+            "location": "Katraj",
+            "price": 41000,
+            "bed": 4,
+            "bathroom":5,
+            "name": "Infinity Heights",
+            "type": "Flat"
+          },
+          {
+            "img":"https://s3.amazonaws.com/images.apartmentsmart.com/10101276/36846985.jpg",
+            "location": "Kolhapur",
+            "price": 55000,
+            "bed": 5,
+            "bathroom":5,
+            "name": "Laxmi Apartments",
+            "type": "bungalow"
+          },
+          {
+            "img":"https://i.pinimg.com/originals/3c/50/42/3c5042aa9e7cedfa951ddb75f036f639.jpg",
+            "location": "Hadpasar",
+            "price": 51000,
+            "bed": 4,
+            "bathroom":4,
+            "name": "Nest Heights",
+            "type": "Flat"
+          },
+          {
+            "img":"https://i.pinimg.com/564x/91/85/9e/91859e6e15c5daa354cdddde0562fa33--masculine-bedrooms-modern-bedrooms.jpg",
+            "location": "Nerul",
+            "price": 15000,
+            "bed": 2,
+            "bathroom":1,
+            "name": "Balaji complex",
+            "type": "Flat"
+          },
+          {
+            "img":"https://5.imimg.com/data5/SELLER/Default/2020/11/YF/HK/LK/49447283/guest-house-interior-design-500x500.png",
+            "location": "Seawoods",
+            "price": 25000,
+            "bed": 3,
+            "bathroom":2,
+            "name": "Sprints I",
+            "type": "Flat"
+          },
+          {
+            "img":"https://5.imimg.com/data5/US/YG/MY-75232699/indian-decorator-500x500.jpeg",
+            "location": "Kamothe",
+            "price": 12000,
+            "bed": 1,
+            "bathroom":1,
+            "name": "Tirupati complex",
+            "type": "Flat"
+          },
+          {
+            "img":"https://5.imimg.com/data5/MU/ZB/AZ/SELLER-2288469/interior-designing-service-1000x1000.jpeg",
+            "location": "Kalamboli",
+            "price": 27000,
+            "bed": 2,
+            "bathroom":3,
+            "name": "Guru Sankalp",
+            "type": "Flat"
+          },
+          {
+            "img":"https://5.imimg.com/data5/SELLER/Default/2021/2/QC/TJ/EW/28788588/whatsapp-image-2021-02-02-at-18-56-19-2--1000x1000.jpeg",
+            "location": "Ghatkopar",
+            "price": 37000,
+            "bed": 2,
+            "bathroom":3,
+            "name": "Labh Avenue",
+            "type": "Row-house"
+          },
+          {
+            "img":"https://i.pinimg.com/originals/15/61/96/156196888a4591a051d3a2e5a22d6ec2.png",
+            "location": "Viman Nagar",
+            "price": 68000,
+            "bed": 5,
+            "bathroom":6,
+            "name": "Kalptaru co.op",
+            "type": "bungalow"
+            
+          },    
+         {
+            "img":"http://cdn.home-designing.com/wp-content/uploads/2008/10/living_room_part2_by_ozhan.jpg",
+            "location": "Mumbai",
+            "price": 45000,
+            "bed": 2,
+            "bathroom":2,
+            "name": "Dreams complex",
+            "type": "Flat"
+          },
+          {
+            "img":"https://5.imimg.com/data5/NI/XU/DG/ANDROID-13030601/product-jpeg-500x500.jpg",
+            "location": "Panvel",
+            "price": 67000,
+            "bed": 5,
+            "bathroom":6,
+            "name": "Lodha Heights",
+            "type": "flat"
+          },
+          {
+            "img":"https://5.imimg.com/data5/SELLER/Default/2021/5/QM/IS/VV/4274243/ddr-n1-500x500.jpeg",
+            "location": "Kharghar",
+            "price": 22000,
+            "bed": 3,
+            "bathroom":2,
+            "name": "Satyasanskar co.op",
+            "type": "Flat"
+          },
+          {
+            "img":"https://5.imimg.com/data5/SELLER/Default/2021/5/MO/PE/ZG/4274243/ddr-n-1000x1000.jpeg",
+            "location": "Worli",
+            "price": 120000,
+            "bed": 3,
+            "bathroom":4,
+            "name": "Galaxy Apartments",
+            "type": "Row-house"
+          },
+          {
+            "img":"https://www.homelane.com/blog/wp-content/uploads/2022/01/shutterstock_1636798747.jpg",
+            "location": "Andheri",
+            "price": 60000,
+            "bed": 4,
+            "bathroom":3,
+            "name": "Amarante",
+            "type": "bungalow"
+          },
+          {
+            "img":"https://i.pinimg.com/originals/70/68/45/7068456506dd96c57b6b461a9a312f65.jpg",
+            "location": "Kothrud",
+            "price": 36000,
+            "bed": 2,
+            "bathroom":2,
+            "name": "Riverview heights",
+            "type": "Flat"
+          }
+      ]
+}
