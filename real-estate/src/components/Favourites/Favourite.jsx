@@ -7,7 +7,7 @@ function Favourite() {
   useEffect(()=>{
     const getData = async()=>{
        try {
-          let res= await fetch("http://localhost:8080/Favourites");
+          let res= await fetch("https://pratikmock.herokuapp.com/Favourites");
           let info = await res.json();
           setData([...info])
        } catch (error) {

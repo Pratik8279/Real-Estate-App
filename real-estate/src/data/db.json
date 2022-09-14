@@ -271,6 +271,36 @@
       "bathroom": 5,
       "type": "bungalow",
       "id": 3
+    },
+    {
+      "img": "https://5.imimg.com/data5/SELLER/Default/2021/7/GQ/YW/IT/13267883/hall-interior-design-500x500.jpg",
+      "name": "Guru co.op",
+      "location": "Vadala",
+      "price": 35000,
+      "bed": 1,
+      "bathroom": 2,
+      "type": "Flat",
+      "id": 4
+    },
+    {
+      "img": "https://www.epsinteriorindustries.com/wp-content/uploads/2021/08/living-room-interior-design.jpg",
+      "name": "Ganesh complex",
+      "location": "Pune",
+      "price": 38000,
+      "bed": 3,
+      "bathroom": 4,
+      "type": "Row-house",
+      "id": 5
+    },
+    {
+      "img": "https://www.epsinteriorindustries.com/wp-content/uploads/2021/08/living-room-interior-design.jpg",
+      "name": "Ganesh complex",
+      "location": "Pune",
+      "price": 38000,
+      "bed": 3,
+      "bathroom": 4,
+      "type": "Row-house",
+      "id": 6
     }
   ]
 }

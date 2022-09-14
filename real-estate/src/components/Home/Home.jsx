@@ -10,7 +10,7 @@ function Home() {
 
     let getData = async()=>{
       try {
-         let res= await fetch("http://localhost:8080/property");
+         let res= await fetch("https://pratikmock.herokuapp.com/property");
          let info = await res.json();
          setData([...info])
         return info
@@ -77,7 +77,7 @@ function Home() {
                 // Post request to favourite page
 
       const handleClick = async({img,name,location,price,bed,bathroom,type})=>{
-           let res = await fetch("http://localhost:8080/Favourites",{
+           let res = await fetch("https://pratikmock.herokuapp.com/Favourites",{
             method: "POST",
             headers: {"content-type": "application/json"},
             body: JSON.stringify({
