@@ -4,11 +4,12 @@ import styles from "./Navbar.module.css"
 
 function Navbar() {
   return (
-    <div>
+    <div id={styles.nav}>
          <Link to= "/">Home</Link>
          <Link to= "/favourites">Favourites</Link>
     </div>
   )
 }
+
 
 export default Navbar
