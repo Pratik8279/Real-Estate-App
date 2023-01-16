@@ -38,4 +38,4 @@ On frontend terminal perform:
 
 
 ## Thank you note
-Thank you all who is giving precious time to visit our little creative project which is made with lot of efforts.
+Thank you all who is giving precious time to visit my little creative project which is made with lot of efforts.
